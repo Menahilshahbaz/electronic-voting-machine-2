@@ -47,13 +47,21 @@ The system have following Entities;
 
 ## Screnshots
  - Main Menu <br>
- ![EVM](https://github.com/itstayyabniazi/Electronic-Voting-Machine/assets/145628010/7195e07c-8643-401b-b01f-9b4560c4c90a)
+![Capture](https://github.com/user-attachments/assets/0f85b6b7-a336-4da2-831c-53c3b6670488)
 
 - Admin Menu <br>
- ![Admin login](https://github.com/itstayyabniazi/Electronic-Voting-Machine/assets/145628010/62b28d3c-3898-4de2-9f5a-ecdf2cb0e3dc)
+![admin2](https://github.com/user-attachments/assets/fe9a7cd1-7ec9-46c3-ad23-d6d3eafded3a)
+- update Menu <br>
+![update](https://github.com/user-attachments/assets/170abc63-86ba-45b8-ab9a-3566b4db31f8)
+ - add Menu <br>
+![add person](https://github.com/user-attachments/assets/9840e097-54d4-4a02-bfed-ebb6504c6dee)
+- remove Menu <br>
+![remove nominee](https://github.com/user-attachments/assets/eec65e71-7217-48c8-86a3-2285c0a3dd42)
+- search Menu <br>
+![search](https://github.com/user-attachments/assets/e880f4cc-16a9-4ee2-962e-e40702cd5d1a)
+  - voter page <br>
+![new](https://github.com/user-attachments/assets/05b142c3-a767-4971-a0d8-59cc2d78563c)
 
-- Candidate Menu <br>
- ![Cand Login](https://github.com/itstayyabniazi/Electronic-Voting-Machine/assets/145628010/a448e8cb-da7b-4be0-9a8d-d19efb5e09f1)
 
 ## 🚀 About Me
 I'm a beginner developer...
