@@ -167,9 +167,9 @@ public class Main4 extends JFrame {
         });
 
         // Add some initial people
-        people.add(new Person("12345", "Person1", new ImageIcon("C:\\Users\\Admin\\Desktop\\123.jpg"), PersonIconsCheckboxe.person1_votes));
-        people.add(new Person("22345", "Person2", new ImageIcon("C:\\Users\\Apple Computer\\Desktop\\icon_Image folder\\A12-preview.png"), PersonIconsCheckboxe.person2_votes));
-        people.add(new Person("23455", "Person3", new ImageIcon("C:\\Users\\Apple Computer\\Desktop\\icon_Image folder\\O12.png"), PersonIconsCheckboxe.person3_votes));
+        people.add(new Person("12345", "Ali", new ImageIcon("C:\\Users\\Admin\\Desktop\\123.jpg"), PersonIconsCheckboxe.person1_votes));
+        people.add(new Person("22345", "Saad", new ImageIcon("C:\\Users\\Apple Computer\\Desktop\\icon_Image folder\\A12-preview.png"), PersonIconsCheckboxe.person2_votes));
+        people.add(new Person("23455", "Sanan", new ImageIcon("C:\\Users\\Apple Computer\\Desktop\\icon_Image folder\\O12.png"), PersonIconsCheckboxe.person3_votes));
 
         System.out.println("\nPerson 1 votes in main4 java: " + PersonIconsCheckboxe.person1_votes);
         System.out.println("Person 2 votes in main4 java: " + PersonIconsCheckboxe.person2_votes);
