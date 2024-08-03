@@ -26,11 +26,12 @@ The system have following Entities;
 **Candidates:** <br>
 | Users     | Ali     | Saad     | Sanan     |
 | :---      |   :---:   |      :---: |      :---: |
-| CNIC  | 111     | 222 | 222 |
-| Password  | Voter1       | Voter2    | Voter3    |
+| CNIC  | 12345     | 22345 | 23455 |
 
 **Voters:** <br>
-- Anyone else other then the candidate can vote.
+| CNIC  | 111     | 222 | 333 | 444 | 555 |
+| :---      |   :---:   |      :---: |      :---: |      :---: |      :---: |
+| Password  | Voter1       | Voter2    | Voter3    | Voter4    | Voter5    |
 
 -----------------------------------------------------------------------------
 ## Authors
